@@ -1,0 +1,30 @@
+
+body{
+	background: antiquewhite;
+}
+
+h1, h3{
+	text-align: center;
+	font-family: 'Abril Fatface', cursive;
+
+}
+
+
+.todo{
+	background-color: #fea;
+	border-radius: 15px;
+	height: 300px
+}
+
+.do{
+	background-color: #F78;
+	border-radius: 15px;
+	height: 300px;
+}
+
+li{
+	list-style: none;
+	font-size: 20px;
+	font-family: 'Abril Fatface', cursive;
+
+}
